@@ -1,0 +1,20 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 28,
+    "terminal.integrated.fontSize": 24,
+    "editor.wordWrap": "on",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.fontWeight": "normal",
+    "editor.formatOnSave": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 1,
+    "workbench.editor.empty.hint": "hidden",
+}
