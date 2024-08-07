@@ -17,4 +17,5 @@
     "editor.minimap.enabled": false,
     "window.zoomLevel": 1,
     "workbench.editor.empty.hint": "hidden",
+    "liveServer.settings.port": 5503,
 }
