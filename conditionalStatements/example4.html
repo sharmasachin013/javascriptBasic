@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Ternary Operator Demo</title>
+        <script>
+            // <varname> = <con> ? <state> : <state>
+                let a,str;
+                a = prompt("Enter a number");
+                if(isNaN(a) == false) {
+                    a = Number(a);
+                    str = (a % 2) == 0 ? "Number is Even" : "Number is Odd";
+
+                } else {
+                    str = "You did not input a number";
+
+                }
+                
+               document.write(`${str}`);
+        </script>
+    </head>
+    <body></body>
+</html>
