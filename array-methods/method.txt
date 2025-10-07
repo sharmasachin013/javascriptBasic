@@ -3,3 +3,6 @@
 3. shift()
 4. unshift()
 5. splice()
+6. slice()
+7. concat()
+8. fill()
