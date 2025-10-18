@@ -7,3 +7,4 @@
 7. concat()
 8. fill()
 9. includes()
+10. indexOf()
