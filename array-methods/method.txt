@@ -8,3 +8,4 @@
 8. fill()
 9. includes()
 10. indexOf()
+11. sort()
