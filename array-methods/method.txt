@@ -9,3 +9,6 @@
 9. includes()
 10. indexOf()
 11. sort()
+12. reverse()
+13. join()
+14. toString()
